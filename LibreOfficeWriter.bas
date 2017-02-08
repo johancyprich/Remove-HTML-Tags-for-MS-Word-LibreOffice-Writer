@@ -1,5 +1,5 @@
 sub RemoveHTMLTags
-  ' Macro for LibreOffice Writer.
+	' Macro for LibreOffice Writer.
 	' Thanks to https://gist.github.com/pepebe/3096745.
 
 	dim document   as object
