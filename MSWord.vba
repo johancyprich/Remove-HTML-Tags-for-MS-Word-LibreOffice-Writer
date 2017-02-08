@@ -1,5 +1,5 @@
 Sub RemoveHTMLTags()
-  ' Macro for Microsoft Word.
+	' Macro for Microsoft Word.
 	' Author: https://excelwordvbamacros.blogspot.ca/2012/10/vba-string-manipulations-remove-html.html.
 
 	Dim MyRange As Range
